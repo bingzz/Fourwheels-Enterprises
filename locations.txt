@@ -1,0 +1,61 @@
+Detail panel
+Loc: 871, 12
+size: 379, 697
+
+main panel
+loc: 255, 120
+size: 610, 589
+
+main grid
+loc: 6, 115
+size: 599, 468
+
+function panel
+loc: 255, 12
+size: 610, 102
+
+username panel
+loc: 12, 12
+size: 237, 697
+
+generate reports panel
+loc: 255, 12
+size: 995, 697
+
+detail label
+loc: 0, 29
+size: 379, 46
+
+
+
+
+
+TRANSACTIONS
+
+panel
+loc: 1,137
+size: 879, 512
+
+data grid
+loc: 8, 130
+size: 536,202
+
+date
+loc: 81, 52
+size: 152,26
+
+clear button:
+loc: 329, 337
+size: 101,30
+
+remove button:
+loc: 436, 337
+size: 109, 30
+
+listbox
+loc: 563, 127
+size: 305, 100
+
+add transaction
+loc: 173, 457
+size: 172, 36

@@ -1,0 +1,39 @@
+G:\C#\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe.config
+G:\C#\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe
+G:\C#\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.pdb
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csprojAssemblyReference.cache
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.LoginForm.resources
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.Properties.Resources.resources
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.GenerateResource.cache
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.CoreCompileInputs.cache
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.exe
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.pdb
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.MainForm.resources
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.TransactionForm.resources
+G:\C#\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.EmployeeForm.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe.config
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.pdb
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csprojAssemblyReference.cache
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.EmployeeForm.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.LoginForm.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.MainForm.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.Properties.Resources.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.TransactionForm.resources
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.GenerateResource.cache
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.CoreCompileInputs.cache
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.exe
+C:\Users\Irving Real\Downloads\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.pdb
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe.config
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.exe
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\bin\Debug\FWE ISMS.pdb
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.EmployeeForm.resources
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.LoginForm.resources
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.MainForm.resources
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE_ISMS.TransactionForm.resources
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.exe
+D:\Documents\Visual Studio 2019\Projects\FWE ISMS\FWE ISMS\obj\Debug\FWE ISMS.pdb
